@@ -1,4 +1,5 @@
 # RandomWalk Data Science Assessment
+RECORDED VIDEO LINK:https://drive.google.com/drive/folders/1-ZS5cmyGEEH2IHKJv47nxLLn-8cu4BFT?usp=sharing
 
 ## Instructions:
 
